@@ -16,9 +16,9 @@ public class ConfigBean {
 	public RestTemplate getRestTemplate() {
 		return new RestTemplate();	
 	}
-	@Bean
-	public IRule myRule() {
-		return new RandomRule();//随机算法 
-		//return new RoundRobinRule();//轮训算法
-	}
+//	@Bean
+//	public IRule myRule() {
+//		return new RandomRule();//随机算法 
+//		//return new RoundRobinRule();//轮训算法
+//	}
 }
