@@ -1,2 +1,3 @@
 D:\code\eclipseWorkSpace\microservicecloud\microservicecloud-api\src\main\java\com\ygt\springcloud\entities\Dept.java
 D:\code\eclipseWorkSpace\microservicecloud\microservicecloud-api\src\main\java\com\ygt\springcloud\service\DeptClientService.java
+D:\code\eclipseWorkSpace\microservicecloud\microservicecloud-api\src\main\java\com\ygt\springcloud\service\DeptClientServiceFallbackFactory.java
